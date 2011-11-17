@@ -1,1 +1,4 @@
 A simple OpenGL 2.1 app that demonstrates using GLUT to create a window that renders a simple mesh with WASD+mouse flying camera controls.
+
+Makefile currently works for:
+OS X
